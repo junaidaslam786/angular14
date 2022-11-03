@@ -1,0 +1,24 @@
+{
+  "bugtracking": [
+    {
+      "issue_name": "Table Improvement",
+      "issue_message": "Issue tracking is awesome because of collaboration",
+      "id": 1
+    },
+    {
+      "issue_name": "Tooltip Issue",
+      "issue_message": "Issue tracking is awesome because of collaboration",
+      "id": 2
+    },
+    {
+      "issue_name": "Chess Issue",
+      "issue_message": "Move tracking in chess is awesome because of collaboration",
+      "id": 3
+    },
+    {
+      "issue_name": "Pattern Issue",
+      "issue_message": "In most of the programming language the Issue tracking is awesome because of collaboration",
+      "id": 4
+    }
+  ]
+}
